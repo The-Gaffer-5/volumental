@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/volumental/static/css/main.511c8e9a.chunk.css",
+    "main.js": "/volumental/static/js/main.c1c67e11.chunk.js",
+    "main.js.map": "/volumental/static/js/main.c1c67e11.chunk.js.map",
+    "runtime-main.js": "/volumental/static/js/runtime-main.c93c2540.js",
+    "runtime-main.js.map": "/volumental/static/js/runtime-main.c93c2540.js.map",
+    "static/js/2.763f115e.chunk.js": "/volumental/static/js/2.763f115e.chunk.js",
+    "static/js/2.763f115e.chunk.js.map": "/volumental/static/js/2.763f115e.chunk.js.map",
+    "index.html": "/volumental/index.html",
+    "precache-manifest.b078fad6bf6055dc49a95219cec9f961.js": "/volumental/precache-manifest.b078fad6bf6055dc49a95219cec9f961.js",
+    "service-worker.js": "/volumental/service-worker.js",
+    "static/css/main.511c8e9a.chunk.css.map": "/volumental/static/css/main.511c8e9a.chunk.css.map",
+    "static/js/2.763f115e.chunk.js.LICENSE.txt": "/volumental/static/js/2.763f115e.chunk.js.LICENSE.txt",
+    "static/media/volumentalmenu.css": "/volumental/static/media/5c9c9a6b202d4367c4131a0b_logotype.a6bf9018.svg",
+    "static/media/errorbox.css": "/volumental/static/media/error-shoes.af71c625.jpg",
+    "static/media/loginscreen.css": "/volumental/static/media/login.4eefd890.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c93c2540.js",
+    "static/js/2.763f115e.chunk.js",
+    "static/css/main.511c8e9a.chunk.css",
+    "static/js/main.c1c67e11.chunk.js"
+  ]
+}
